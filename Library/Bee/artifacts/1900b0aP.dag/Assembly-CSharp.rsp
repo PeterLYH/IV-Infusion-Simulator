@@ -340,9 +340,9 @@
 "Assets/MediaPipeUnity/Tutorial/Tasks/FaceLandmarkerRunner.cs"
 "Assets/Script/FollowWheelText.cs"
 "Assets/Script/IVFormulaDisplay.cs"
+"Assets/Script/MainMenu.cs"
 "Assets/Script/PlaceOnGround.cs"
 "Assets/Script/WaterDrop.cs"
-"Assets/Script/WheelController.cs"
 "Assets/Script/WheelController_Test.cs"
 -langversion:9.0
 /unsafe+

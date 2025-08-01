@@ -2,6 +2,7 @@
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="FollowWheelText" preserve="nothing"/>
 		<type fullname="IVFormulaDisplay" preserve="nothing"/>
+		<type fullname="MainMenu" preserve="nothing"/>
 		<type fullname="WaterDrop" preserve="nothing"/>
 		<type fullname="WheelController_Test" preserve="nothing"/>
 	</assembly>
@@ -19,7 +20,6 @@
 		<type fullname="Mediapipe.Unity.Sample.AppSettings" preserve="nothing"/>
 		<type fullname="Mediapipe.Unity.Sample.Bootstrap" preserve="nothing"/>
 		<type fullname="Mediapipe.Unity.Sample.HandLandmarkDetection.HandLandmarkerRunner" preserve="nothing"/>
-		<type fullname="Mediapipe.Unity.Sample.HandLandmarkDetection.UI.HandLandmarkDetectionConfigWindow" preserve="nothing"/>
 		<type fullname="Mediapipe.Unity.Sample.UI.ImageSourceConfig" preserve="nothing"/>
 		<type fullname="Mediapipe.Unity.Sample.UI.Modal" preserve="nothing"/>
 		<type fullname="Mediapipe.Unity.Sample.UI.ModalButton" preserve="nothing"/>
@@ -59,6 +59,7 @@
 		<type fullname="UnityEngine.CanvasRenderer" preserve="nothing"/>
 		<type fullname="UnityEngine.Collider" preserve="nothing"/>
 		<type fullname="UnityEngine.Component" preserve="nothing"/>
+		<type fullname="UnityEngine.Cubemap" preserve="nothing"/>
 		<type fullname="UnityEngine.Font" preserve="nothing"/>
 		<type fullname="UnityEngine.GameObject" preserve="nothing"/>
 		<type fullname="UnityEngine.Light" preserve="nothing"/>
@@ -93,7 +94,6 @@
 		<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Image" preserve="nothing"/>
-		<type fullname="UnityEngine.UI.InputField" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.LayoutElement" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Mask" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.RawImage" preserve="nothing"/>
