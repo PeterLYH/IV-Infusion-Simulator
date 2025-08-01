@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/IV_HandTracking.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
