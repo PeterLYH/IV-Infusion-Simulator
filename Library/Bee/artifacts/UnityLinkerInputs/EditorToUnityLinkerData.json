@@ -153,28 +153,7 @@
         {
             "managedAssemblyName": "Mediapipe.Unity.Sample.dll",
             "nativeClass": "",
-            "fullManagedTypeName": "Mediapipe.Unity.Sample.UI.ImageSourceConfig",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Mediapipe.Unity.Sample.dll",
-            "nativeClass": "",
             "fullManagedTypeName": "Mediapipe.Unity.Sample.UI.Modal",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Mediapipe.Unity.Sample.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Mediapipe.Unity.Sample.UI.ModalButton",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Mediapipe.Unity.Sample.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Mediapipe.Unity.Sample.UI.SolutionMenu",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -286,13 +265,6 @@
             "managedAssemblyName": "Unity.TextMeshPro.dll",
             "nativeClass": "",
             "fullManagedTypeName": "TMPro.TMP_StyleSheet",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Mediapipe.Unity.Sample.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnicodeInlineText",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -747,28 +719,7 @@
         {
             "managedAssemblyName": "UnityEngine.UI.dll",
             "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.UI.ContentSizeFitter",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.UI.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.UI.Dropdown",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.UI.dll",
-            "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.UI.GraphicRaycaster",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.UI.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.UI.HorizontalLayoutGroup",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -782,56 +733,7 @@
         {
             "managedAssemblyName": "UnityEngine.UI.dll",
             "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.UI.LayoutElement",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.UI.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.UI.Mask",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.UI.dll",
-            "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.UI.RawImage",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.UI.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.UI.Scrollbar",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.UI.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.UI.ScrollRect",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.UI.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.UI.Text",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.UI.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.UI.Toggle",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.UI.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.UI.VerticalLayoutGroup",
             "moduleName": "",
             "usedInScenes": []
         },

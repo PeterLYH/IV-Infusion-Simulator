@@ -23,6 +23,11 @@ namespace Mediapipe.Unity
 
         private readonly ResolutionStruct[] _defaultAvailableResolutions;
 
+        public void PauseCamera()
+        {
+            Pause(); // Calls existing Pause method
+        }
+
         public WebCamSource(int preferableDefaultWidth, ResolutionStruct[] defaultAvailableResolutions)
         {
             _preferableDefaultWidth = preferableDefaultWidth;

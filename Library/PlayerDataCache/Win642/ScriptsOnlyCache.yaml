@@ -22,12 +22,8 @@ ScriptsOnlyBuild:
     - Mediapipe.Unity.Sample.AppSettings
     - Mediapipe.Unity.Sample.Bootstrap
     - Mediapipe.Unity.Sample.HandLandmarkDetection.HandLandmarkerRunner
-    - Mediapipe.Unity.Sample.UI.ImageSourceConfig
     - Mediapipe.Unity.Sample.UI.Modal
-    - Mediapipe.Unity.Sample.UI.ModalButton
-    - Mediapipe.Unity.Sample.UI.SolutionMenu
     - Mediapipe.Unity.Screen
-    - UnicodeInlineText
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Animation.Runtime.dll:
@@ -67,19 +63,9 @@ ScriptsOnlyBuild:
     - UnityEngine.EventSystems.StandaloneInputModule
     - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
-    - UnityEngine.UI.ContentSizeFitter
-    - UnityEngine.UI.Dropdown
     - UnityEngine.UI.GraphicRaycaster
-    - UnityEngine.UI.HorizontalLayoutGroup
     - UnityEngine.UI.Image
-    - UnityEngine.UI.LayoutElement
-    - UnityEngine.UI.Mask
     - UnityEngine.UI.RawImage
-    - UnityEngine.UI.ScrollRect
-    - UnityEngine.UI.Scrollbar
-    - UnityEngine.UI.Text
-    - UnityEngine.UI.Toggle
-    - UnityEngine.UI.VerticalLayoutGroup
   serializedClasses:
     Mediapipe.Unity.Sample:
     - Mediapipe.Unity.AutoFit/FitMode
@@ -125,6 +111,9 @@ ScriptsOnlyBuild:
   - assembly: Assembly-CSharp
     fullTypeName: MainMenu
     methodName: QuitGame
+  - assembly: Assembly-CSharp
+    fullTypeName: MainMenu
+    methodName: BackToMenu
   sceneClasses:
     Assets/Scenes/IV_HandTracking.unity:
     - Class: 1
@@ -152,59 +141,63 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 8610}
+      Script: {instanceID: 1594}
     - Class: 114
-      Script: {instanceID: 8738}
+      Script: {instanceID: 1596}
     - Class: 114
-      Script: {instanceID: 9000}
+      Script: {instanceID: 1598}
     - Class: 114
-      Script: {instanceID: 9160}
+      Script: {instanceID: 8678}
     - Class: 114
-      Script: {instanceID: 9482}
+      Script: {instanceID: 8806}
     - Class: 114
-      Script: {instanceID: 9688}
+      Script: {instanceID: 9068}
     - Class: 114
-      Script: {instanceID: 10086}
+      Script: {instanceID: 9548}
     - Class: 114
-      Script: {instanceID: 10142}
+      Script: {instanceID: 9754}
     - Class: 114
-      Script: {instanceID: 10526}
+      Script: {instanceID: 10206}
     - Class: 114
-      Script: {instanceID: 10638}
+      Script: {instanceID: 10590}
     - Class: 114
-      Script: {instanceID: 10656}
+      Script: {instanceID: 10702}
     - Class: 114
-      Script: {instanceID: 10838}
+      Script: {instanceID: 10720}
     - Class: 114
-      Script: {instanceID: 12046}
+      Script: {instanceID: 10902}
     - Class: 114
-      Script: {instanceID: 12276}
+      Script: {instanceID: 11130}
     - Class: 114
-      Script: {instanceID: 12416}
+      Script: {instanceID: 12110}
     - Class: 114
-      Script: {instanceID: 12706}
+      Script: {instanceID: 12280}
     - Class: 114
-      Script: {instanceID: 13030}
+      Script: {instanceID: 12342}
     - Class: 114
-      Script: {instanceID: 13166}
+      Script: {instanceID: 12478}
     - Class: 114
-      Script: {instanceID: 13192}
+      Script: {instanceID: 12768}
     - Class: 114
-      Script: {instanceID: 13332}
+      Script: {instanceID: 13092}
     - Class: 114
-      Script: {instanceID: 13962}
+      Script: {instanceID: 13228}
     - Class: 114
-      Script: {instanceID: 14132}
+      Script: {instanceID: 13254}
     - Class: 114
-      Script: {instanceID: 14508}
+      Script: {instanceID: 13394}
     - Class: 114
-      Script: {instanceID: 14962}
+      Script: {instanceID: 14024}
     - Class: 114
-      Script: {instanceID: 15254}
+      Script: {instanceID: 14194}
     - Class: 114
-      Script: {instanceID: 32448}
+      Script: {instanceID: 15022}
     - Class: 114
-      Script: {instanceID: 32466}
+      Script: {instanceID: 15314}
+    - Class: 114
+      Script: {instanceID: 45472}
+    - Class: 114
+      Script: {instanceID: 45474}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -251,35 +244,35 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 8738}
+      Script: {instanceID: 8806}
     - Class: 114
-      Script: {instanceID: 9000}
+      Script: {instanceID: 9068}
     - Class: 114
-      Script: {instanceID: 9482}
+      Script: {instanceID: 9548}
     - Class: 114
-      Script: {instanceID: 9518}
+      Script: {instanceID: 9584}
     - Class: 114
-      Script: {instanceID: 10142}
+      Script: {instanceID: 10206}
     - Class: 114
-      Script: {instanceID: 10526}
+      Script: {instanceID: 10590}
     - Class: 114
-      Script: {instanceID: 10638}
+      Script: {instanceID: 10702}
     - Class: 114
-      Script: {instanceID: 10838}
+      Script: {instanceID: 10902}
     - Class: 114
-      Script: {instanceID: 11066}
+      Script: {instanceID: 11130}
     - Class: 114
-      Script: {instanceID: 13100}
+      Script: {instanceID: 12280}
     - Class: 114
-      Script: {instanceID: 13332}
+      Script: {instanceID: 13162}
     - Class: 114
-      Script: {instanceID: 13962}
+      Script: {instanceID: 13394}
     - Class: 114
-      Script: {instanceID: 14082}
+      Script: {instanceID: 14024}
     - Class: 114
-      Script: {instanceID: 14132}
+      Script: {instanceID: 14144}
     - Class: 114
-      Script: {instanceID: 32126}
+      Script: {instanceID: 14194}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -297,6 +290,24 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 7659750a60511441395719c3400f220b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: WaterDrop
+  - hash:
+      serializedVersion: 2
+      Hash: 0d8ed34ef12b393c0ed79c708e639d98
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: IVFormulaDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 6153734008ac8ac8b3b50616cdf6c48e
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: WheelController_Test
   - hash:
       serializedVersion: 2
       Hash: b260e0fe9d481ae0447df29556c6a7be
@@ -393,12 +404,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.2D.Animation.Runtime
     namespaceName: UnityEngine.U2D.Animation
     className: DeformationManagerUpdater
-  - hash:
-      serializedVersion: 2
-      Hash: 7659750a60511441395719c3400f220b
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: WaterDrop
   - hash:
       serializedVersion: 2
       Hash: 5727e32ec12aea33c4d939553eea3d17
@@ -525,12 +530,6 @@ ScriptsOnlyBuild:
     assemblyName: Mediapipe.Unity.Sample
     namespaceName: Mediapipe.Unity.Sample.MediaPipeVideo.UI
     className: MediaPipeVideoConfig
-  - hash:
-      serializedVersion: 2
-      Hash: 0d8ed34ef12b393c0ed79c708e639d98
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: IVFormulaDisplay
   - hash:
       serializedVersion: 2
       Hash: 47d50f529890b9237021f88334dc1cf6
@@ -855,6 +854,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
     className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: fe4c75203a9743390fe41454f7d841d0
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: MainMenu
   - hash:
       serializedVersion: 2
       Hash: 764b59c39010a878d67849c7b0d8830f
@@ -1217,12 +1222,6 @@ ScriptsOnlyBuild:
     className: TextMeshPro
   - hash:
       serializedVersion: 2
-      Hash: 6153734008ac8ac8b3b50616cdf6c48e
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: WheelController_Test
-  - hash:
-      serializedVersion: 2
       Hash: 9d00075fecc32e933bcc7df2f8afcf46
     assemblyName: Mediapipe.Unity.Sample
     namespaceName: Mediapipe.Unity.Sample.PoseLandmarkDetection
@@ -1323,12 +1322,6 @@ ScriptsOnlyBuild:
     assemblyName: Mediapipe.Unity.Sample
     namespaceName: Mediapipe.Unity.Sample.FaceLandmarkDetection.UI
     className: FaceLandmarkDetectionConfigWindow
-  - hash:
-      serializedVersion: 2
-      Hash: fe4c75203a9743390fe41454f7d841d0
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: MainMenu
   platform: 19
   scenePathNames:
   - Assets/Scenes/Main_Menu.unity

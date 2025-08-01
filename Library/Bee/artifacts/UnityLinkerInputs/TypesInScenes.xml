@@ -20,12 +20,8 @@
 		<type fullname="Mediapipe.Unity.Sample.AppSettings" preserve="nothing"/>
 		<type fullname="Mediapipe.Unity.Sample.Bootstrap" preserve="nothing"/>
 		<type fullname="Mediapipe.Unity.Sample.HandLandmarkDetection.HandLandmarkerRunner" preserve="nothing"/>
-		<type fullname="Mediapipe.Unity.Sample.UI.ImageSourceConfig" preserve="nothing"/>
 		<type fullname="Mediapipe.Unity.Sample.UI.Modal" preserve="nothing"/>
-		<type fullname="Mediapipe.Unity.Sample.UI.ModalButton" preserve="nothing"/>
-		<type fullname="Mediapipe.Unity.Sample.UI.SolutionMenu" preserve="nothing"/>
 		<type fullname="Mediapipe.Unity.Screen" preserve="nothing"/>
-		<type fullname="UnicodeInlineText" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.2D.Animation.Runtime">
 		<type fullname="UnityEngine.U2D.Animation.BufferManager" preserve="nothing"/>
@@ -89,18 +85,8 @@
 		<type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Button" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.CanvasScaler" preserve="nothing"/>
-		<type fullname="UnityEngine.UI.ContentSizeFitter" preserve="nothing"/>
-		<type fullname="UnityEngine.UI.Dropdown" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="nothing"/>
-		<type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Image" preserve="nothing"/>
-		<type fullname="UnityEngine.UI.LayoutElement" preserve="nothing"/>
-		<type fullname="UnityEngine.UI.Mask" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.RawImage" preserve="nothing"/>
-		<type fullname="UnityEngine.UI.Scrollbar" preserve="nothing"/>
-		<type fullname="UnityEngine.UI.ScrollRect" preserve="nothing"/>
-		<type fullname="UnityEngine.UI.Text" preserve="nothing"/>
-		<type fullname="UnityEngine.UI.Toggle" preserve="nothing"/>
-		<type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="nothing"/>
 	</assembly>
 </linker>
