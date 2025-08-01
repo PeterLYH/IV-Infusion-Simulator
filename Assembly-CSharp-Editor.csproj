@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E4E8D9BB-4D8B-5EFD-E6EB-0DF7D9A835CE}</ProjectGuid>
+    <ProjectGuid>{41FBF1AE-58EB-BD60-DD01-4A545D463DD4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -1317,15 +1317,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{335DE5CF-B7B0-35DA-408F-35BCCFACED03}</Project>
+      <Project>{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="Mediapipe.Runtime.csproj">
-      <Project>{C8FBCBFD-AA06-5A6F-1573-9287417EAE1C}</Project>
+      <Project>{4EE60565-A759-248C-D611-8FF054A9B09D}</Project>
       <Name>Mediapipe.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Mediapipe.Unity.Sample.csproj">
-      <Project>{E3E07622-BB32-EE07-441B-FB7ABF4106B8}</Project>
+      <Project>{2FDAE92C-81FD-0679-DC80-0FE3FB7F929E}</Project>
       <Name>Mediapipe.Unity.Sample</Name>
     </ProjectReference>
   </ItemGroup>

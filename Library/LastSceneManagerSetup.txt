@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/IV_HandTracking.unity
+- path: Assets/MediaPipeUnity/Tutorial/Tasks/Face Landmark Detection.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

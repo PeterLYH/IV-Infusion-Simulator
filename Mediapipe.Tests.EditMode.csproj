@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{36740704-75CE-7D24-7E8D-07DB0A17A36F}</ProjectGuid>
+    <ProjectGuid>{C89D660A-7C43-482C-D950-795C05E81959}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Mediapipe.Tests.EditMode</AssemblyName>
@@ -1125,7 +1125,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Mediapipe.Runtime.csproj">
-      <Project>{C8FBCBFD-AA06-5A6F-1573-9287417EAE1C}</Project>
+      <Project>{4EE60565-A759-248C-D611-8FF054A9B09D}</Project>
       <Name>Mediapipe.Runtime</Name>
     </ProjectReference>
   </ItemGroup>

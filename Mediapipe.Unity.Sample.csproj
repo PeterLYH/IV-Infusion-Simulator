@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E3E07622-BB32-EE07-441B-FB7ABF4106B8}</ProjectGuid>
+    <ProjectGuid>{2FDAE92C-81FD-0679-DC80-0FE3FB7F929E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Mediapipe.Unity.Sample</AssemblyName>
@@ -1157,7 +1157,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Mediapipe.Runtime.csproj">
-      <Project>{C8FBCBFD-AA06-5A6F-1573-9287417EAE1C}</Project>
+      <Project>{4EE60565-A759-248C-D611-8FF054A9B09D}</Project>
       <Name>Mediapipe.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
