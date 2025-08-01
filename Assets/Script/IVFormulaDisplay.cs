@@ -3,7 +3,7 @@ using TMPro;
 
 public class IVFormulaDisplay : MonoBehaviour
 {
-    public WheelController_Test wheelController; // Reference to wheel controller
+    public WheelController wheelController; // Reference to wheel controller
     public TextMeshProUGUI formulaText; // Assign IVFormulaText (TextMeshProUGUI)
     public Transform rollerClamp; // Assign RollerClamp for positioning
     public float maxFlowRate = 1500f; // Max flow rate in mL/hour at 100%
@@ -17,7 +17,7 @@ public class IVFormulaDisplay : MonoBehaviour
         if (wheelController == null)
         {
             Debug.LogWarning("WheelController is not assigned in IVFormulaDisplay!");
-            wheelController = FindObjectOfType<WheelController_Test>();
+            wheelController = FindObjectOfType<WheelController>();
         }
         if (formulaText == null)
         {

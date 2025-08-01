@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\assets\\mediapipeunity\\tutorial\\tasks\\facelandmarkerrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\mediapipeunity\\tutorial\\tasks\\facelandmarkerrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|c:\\users\\tingt\\desktop\\iv-infusion-simulator\\assets\\script\\placeonground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\placeonground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|c:\\users\\tingt\\desktop\\iv-infusion-simulator\\assets\\script\\waterdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\waterdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\assets\\script\\wheelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\wheelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\assets\\script\\ivformuladisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ivformuladisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDAE92C-81FD-0679-DC80-0FE3FB7F929E}|Mediapipe.Unity.Sample.csproj|C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\assets\\mediapipeunity\\samples\\common\\scripts\\imagesource\\webcamsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDAE92C-81FD-0679-DC80-0FE3FB7F929E}|Mediapipe.Unity.Sample.csproj|solutionrelative:assets\\mediapipeunity\\samples\\common\\scripts\\imagesource\\webcamsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FDAE92C-81FD-0679-DC80-0FE3FB7F929E}|Mediapipe.Unity.Sample.csproj|c:\\users\\tingt\\desktop\\iv-infusion-simulator\\assets\\mediapipeunity\\samples\\common\\scripts\\imagesource\\webcamsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FDAE92C-81FD-0679-DC80-0FE3FB7F929E}|Mediapipe.Unity.Sample.csproj|solutionrelative:assets\\mediapipeunity\\samples\\common\\scripts\\imagesource\\webcamsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\assets\\mediapipeunity\\tutorial\\tasks\\facelandmarkerrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\mediapipeunity\\tutorial\\tasks\\facelandmarkerrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4F97D23-17AB-D60C-6EDB-DD824E0BD8C4}|Assembly-CSharp.csproj|C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\assets\\mediapipeunity\\tutorial\\hello world\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,37 +42,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaceOnGround.cs",
+              "DocumentMoniker": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\Script\\PlaceOnGround.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlaceOnGround.cs",
+              "ToolTip": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\Script\\PlaceOnGround.cs",
+              "RelativeToolTip": "Assets\\Script\\PlaceOnGround.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T09:01:50.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVFormulaDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\Script\\IVFormulaDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\IVFormulaDisplay.cs",
+              "ToolTip": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\Script\\IVFormulaDisplay.cs",
+              "RelativeToolTip": "Assets\\Script\\IVFormulaDisplay.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwBMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T09:01:04.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaterDrop.cs",
+              "DocumentMoniker": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\Script\\WaterDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WaterDrop.cs",
+              "ToolTip": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\Script\\WaterDrop.cs",
+              "RelativeToolTip": "Assets\\Script\\WaterDrop.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAkwDAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T09:00:56.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "WheelController.cs",
+              "DocumentMoniker": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\Script\\WheelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WheelController.cs",
+              "ToolTip": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\Script\\WheelController.cs",
+              "RelativeToolTip": "Assets\\Script\\WheelController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T09:00:23.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "WebCamSource.cs",
               "DocumentMoniker": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\ImageSource\\WebCamSource.cs",
               "RelativeDocumentMoniker": "Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\ImageSource\\WebCamSource.cs",
               "ToolTip": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\ImageSource\\WebCamSource.cs",
               "RelativeToolTip": "Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\ImageSource\\WebCamSource.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T07:52:43.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T07:52:43.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\Script\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MainMenu.cs",
               "ToolTip": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\Script\\MainMenu.cs",
               "RelativeToolTip": "Assets\\Script\\MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T07:19:44.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T07:19:44.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "FaceLandmarkerRunner.cs",
               "DocumentMoniker": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\MediaPipeUnity\\Tutorial\\Tasks\\FaceLandmarkerRunner.cs",
               "RelativeDocumentMoniker": "Assets\\MediaPipeUnity\\Tutorial\\Tasks\\FaceLandmarkerRunner.cs",
@@ -64,12 +128,11 @@
               "RelativeToolTip": "Assets\\MediaPipeUnity\\Tutorial\\Tasks\\FaceLandmarkerRunner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T06:50:21.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T06:50:21.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "HelloWorld.cs",
               "DocumentMoniker": "C:\\Users\\tingt\\Desktop\\IV-Infusion-Simulator\\Assets\\MediaPipeUnity\\Tutorial\\Hello World\\HelloWorld.cs",
               "RelativeDocumentMoniker": "Assets\\MediaPipeUnity\\Tutorial\\Hello World\\HelloWorld.cs",

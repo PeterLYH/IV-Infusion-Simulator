@@ -61,6 +61,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.33f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\WheelController.cs" />
     <Compile Include="Assets\Script\PlaceOnGround.cs" />
     <Compile Include="Assets\Script\MainMenu.cs" />
     <Compile Include="Assets\MediaPipeUnity\Tutorial\Hello World\HelloWorld.cs" />
@@ -68,7 +69,6 @@
     <Compile Include="Assets\Script\IVFormulaDisplay.cs" />
     <Compile Include="Assets\Script\FollowWheelText.cs" />
     <Compile Include="Assets\MediaPipeUnity\Tutorial\Tasks\FaceLandmarkerRunner.cs" />
-    <Compile Include="Assets\Script\WheelController_Test.cs" />
     <Compile Include="Assets\MediaPipeUnity\Tutorial\Custom Graph\FaceMeshLegacy.cs" />
   </ItemGroup>
   <ItemGroup>

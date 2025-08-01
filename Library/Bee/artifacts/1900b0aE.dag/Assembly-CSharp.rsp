@@ -437,7 +437,7 @@
 "Assets/Script/MainMenu.cs"
 "Assets/Script/PlaceOnGround.cs"
 "Assets/Script/WaterDrop.cs"
-"Assets/Script/WheelController_Test.cs"
+"Assets/Script/WheelController.cs"
 -langversion:9.0
 /unsafe+
 /deterministic

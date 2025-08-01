@@ -9,7 +9,7 @@ public class WaterDrop : MonoBehaviour
     public float cycleDelay = 1f; // Delay between cycles (seconds)
     public GameObject waterDropPrefab; // Assign WaterDrop 3D model prefab
     public Material waterMaterial; // Assign WaterMaterial (URP Lit)
-    public WheelController_Test wheelController; // Reference to wheel controller
+    public WheelController wheelController; // Reference to wheel controller
 
     private Vector3 initialPosition; // Base position for drops
     private GameObject dropInstance; // Current drop
@@ -46,7 +46,7 @@ public class WaterDrop : MonoBehaviour
         if (wheelController == null)
         {
             Debug.LogWarning("WheelController is not assigned in WaterDrop! Attempting to find it.");
-            wheelController = FindObjectOfType<WheelController_Test>();
+            wheelController = FindObjectOfType<WheelController>();
             if (wheelController == null)
             {
                 Debug.LogError("Could not find WheelController_Test in scene! Drop will not follow percentage.");

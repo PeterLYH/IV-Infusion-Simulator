@@ -42,13 +42,13 @@ public class PlaceOnGround : MonoBehaviour
                 WaterDrop waterDrop = waterDropController.AddComponent<WaterDrop>();
                 waterDrop.waterDropPrefab = Resources.Load<GameObject>("WaterDrop"); // Load prefab
                 waterDrop.waterMaterial = Resources.Load<Material>("WaterMaterial"); // Load material
-                waterDrop.wheelController = currentInstance.GetComponentInChildren<WheelController_Test>();
+                waterDrop.wheelController = currentInstance.GetComponentInChildren<WheelController>();
                 if (followWheelText != null)
                 {
                     followWheelText.rollerClamp = currentInstance.transform;
                     Debug.Log($"Assigned RollerClamp to FollowWheelText: {currentInstance.name}");
                 }
-                WheelController_Test wheelController = currentInstance.GetComponentInChildren<WheelController_Test>();
+                WheelController wheelController = currentInstance.GetComponentInChildren<WheelController>();
                 if (wheelController != null && wheelController.percentageText == null)
                 {
                     Debug.LogWarning("PercentageText is not assigned in WheelController_Test!");
