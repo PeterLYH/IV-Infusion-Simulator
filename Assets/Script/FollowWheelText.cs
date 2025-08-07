@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class FollowWheelText : MonoBehaviour
 {
-    public Transform rollerClamp; // Assign RollerClamp
+    private Transform rollerClamp; // No longer public, as it's not assigned in Inspector
     private Camera mainCamera;
     private RectTransform rectTransform;
 
@@ -11,10 +11,18 @@ public class FollowWheelText : MonoBehaviour
     {
         mainCamera = Camera.main;
         rectTransform = GetComponent<RectTransform>();
-        if (rollerClamp == null)
+
+        // Dynamically find the RollerClamp GameObject by name
+        GameObject rollerClampObj = GameObject.Find("RollerClamp");
+        if (rollerClampObj != null)
         {
-            Debug.LogWarning($"RollerClamp is not assigned on {gameObject.name}!");
+            rollerClamp = rollerClampObj.transform;
         }
+        else
+        {
+            Debug.LogWarning("RollerClamp GameObject not found in the scene!");
+        }
+
         if (mainCamera == null)
         {
             Debug.LogError("Camera not found!");

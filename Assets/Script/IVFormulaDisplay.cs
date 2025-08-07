@@ -5,7 +5,6 @@ public class IVFormulaDisplay : MonoBehaviour
 {
     public WheelController wheelController; // Reference to wheel controller
     public TextMeshProUGUI formulaText; // Assign IVFormulaText (TextMeshProUGUI)
-    public Transform rollerClamp; // Assign RollerClamp for positioning
     public float maxFlowRate = 1500f; // Max flow rate in mL/hour at 100%
     private Camera mainCamera;
     private RectTransform rectTransform;
@@ -23,10 +22,7 @@ public class IVFormulaDisplay : MonoBehaviour
         {
             Debug.LogError("IVFormulaText is not assigned in IVFormulaDisplay!");
         }
-        if (rollerClamp == null)
-        {
-            Debug.LogWarning("RollerClamp is not assigned in IVFormulaDisplay!");
-        }
+
         if (mainCamera == null)
         {
             Debug.LogError("Main Camera not found!");
@@ -36,13 +32,6 @@ public class IVFormulaDisplay : MonoBehaviour
 
     void LateUpdate()
     {
-        if (rollerClamp != null && mainCamera != null)
-        {
-            // Position text to the left of RollerClamp
-            Vector3 screenPos = mainCamera.WorldToScreenPoint(rollerClamp.position);
-            screenPos.x -= 100f; // Offset left (adjust as needed)
-            rectTransform.position = screenPos;
-        }
         UpdateFormulaText();
     }
 
@@ -52,7 +41,7 @@ public class IVFormulaDisplay : MonoBehaviour
         {
             return;
         }
-        // Get percentage (0% at zMax = 0.266, 100% at zMin = -0.212)
+        // Get percentage (0% at zMax, 100% at zMin)
         float t = (wheelController.transform.localPosition.z - wheelController.zMin) / (wheelController.zMax - wheelController.zMin);
         float percentage = Mathf.Lerp(100f, 0f, t);
         // Calculate flow rate (mL/hour)

@@ -62,7 +62,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\WheelController.cs" />
-    <Compile Include="Assets\Script\PlaceOnGround.cs" />
     <Compile Include="Assets\Script\MainMenu.cs" />
     <Compile Include="Assets\MediaPipeUnity\Tutorial\Hello World\HelloWorld.cs" />
     <Compile Include="Assets\Script\WaterDrop.cs" />
