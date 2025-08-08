@@ -747,7 +747,7 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
-            "fullManagedTypeName": "WheelController_Test",
+            "fullManagedTypeName": "WheelController",
             "moduleName": "",
             "usedInScenes": []
         }

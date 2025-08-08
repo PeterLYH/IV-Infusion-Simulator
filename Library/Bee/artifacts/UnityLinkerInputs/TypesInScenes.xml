@@ -4,7 +4,7 @@
 		<type fullname="IVFormulaDisplay" preserve="nothing"/>
 		<type fullname="MainMenu" preserve="nothing"/>
 		<type fullname="WaterDrop" preserve="nothing"/>
-		<type fullname="WheelController_Test" preserve="nothing"/>
+		<type fullname="WheelController" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Mediapipe.Runtime">
 		<type fullname="Mediapipe.Unity.ConnectionAnnotation" preserve="nothing"/>
