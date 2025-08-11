@@ -27,7 +27,6 @@ ScriptsOnlyBuild:
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Animation.Runtime.dll:
-    - UnityEngine.U2D.Animation.BufferManager
     - UnityEngine.U2D.Animation.DeformationManager
     - UnityEngine.U2D.Animation.DeformationManagerUpdater
     Unity.2D.IK.Editor.dll:
@@ -195,9 +194,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 15250}
     - Class: 114
-      Script: {instanceID: 32714}
+      Script: {instanceID: 31834}
     - Class: 114
-      Script: {instanceID: 32732}
+      Script: {instanceID: 31852}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
