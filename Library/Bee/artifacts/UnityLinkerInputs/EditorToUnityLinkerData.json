@@ -684,6 +684,13 @@
         {
             "managedAssemblyName": "Unity.2D.Animation.Runtime.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.U2D.Animation.BufferManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.2D.Animation.Runtime.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.U2D.Animation.DeformationManager",
             "moduleName": "",
             "usedInScenes": []
@@ -3414,6 +3421,9 @@
     "forceIncludeModules": [],
     "forceExcludeModules": [
         "AMD",
-        "NVIDIA"
+        "ClusterInput",
+        "ClusterRenderer",
+        "NVIDIA",
+        "VirtualTexturing"
     ]
 }
