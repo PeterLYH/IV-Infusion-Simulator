@@ -6,5 +6,6 @@
 #Base
 https://github.com/homuler/MediaPipeUnityPlugin
 
-#How To Install
-Please Download the full package by zip file for ios platform progress susseful
+How To Install:
+Please Clone it into your own repository to open the project
+
